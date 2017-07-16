@@ -1,0 +1,4 @@
+#Dockerfile
+FROM　ubuntu 
+MAINTAINER wangxin
+RUN touch a.txt
